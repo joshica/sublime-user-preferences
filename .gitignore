@@ -2,4 +2,4 @@
 /*.sublime-project
 *.sublime-workspace
 sftp-config*.json
-.last-run
+*.last-run
