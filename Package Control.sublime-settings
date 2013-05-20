@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSScomb",
+		"CSSFormat",
+		"CSSLint",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Hex-to-RGBA",
+		"JSLint",
+		"Local History",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SyncedSideBar",
+		"TrailingSpaces"
+	]
+}

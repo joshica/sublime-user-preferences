@@ -1,0 +1,4 @@
+[
+    { "keys": ["command+u+u","command+u+u"], "command": "sftp_upload_file" },
+    { "keys": ["command+f+space","command+f+space"], "command": "sftp_upload_folder" }
+]
