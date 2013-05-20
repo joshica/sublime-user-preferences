@@ -1,4 +1,8 @@
 [
     { "keys": ["command+u+u","command+u+u"], "command": "sftp_upload_file" },
-    { "keys": ["command+f+space","command+f+space"], "command": "sftp_upload_folder" }
+    { "keys": ["command+f+space","command+f+space"], "command": "sftp_upload_folder" },
+    // Delete Trailing Spaces
+    { "keys": ["command+alt+backspace"], "command": "delete_trailing_spaces" },
+    // Lint
+    { "keys": ["command+alt+l"], "command": "sublimelinter", "args": {"action": "lint"} }
 ]
